@@ -34,3 +34,56 @@
     border-bottom: #ffffff solid 1px;
     padding-bottom: 10px;
 }
+
+.bluebox {
+    background: #2398cc;
+    overflow: hidden;
+    height: 230px;
+    color: white;
+    padding: 0 10px
+    font-size: 120%;
+}
+
+.bluebox {
+    background: #2398cc;
+    overflow: hidden;
+    height: 230px;
+    color: white;
+    padding: 0 10px
+    font-size: 120%;
+}
+
+.bluebox a.readmore {
+    position: absolute;
+    bottom: 15px;
+    left: 30px;
+    background: #2b8cbc;
+    padding: 10px 15px;
+    color: white;
+}
+
+.bluebox a.readmore:hover {
+    background: #20749d;
+}
+
+.redbox {
+    background: #ca2129;
+    overflow: hidden;
+    height: 230px;
+    color: white;
+    padding: 0 10px
+    font-size: 120%;
+}
+
+.redbox a.readmore {
+    position: absolute;
+    bottom: 15px;
+    left: 30px;
+    background: #bf1e26;
+    padding: 10px 15px;
+    color: white;
+}
+
+.redbox a.readmore:hover {
+    background: #86161b;
+}
