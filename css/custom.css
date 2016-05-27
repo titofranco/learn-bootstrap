@@ -1,3 +1,7 @@
+.pad-top-10 {  padding-top: 10px; }
+.pad-top-20 {  padding-top: 20px; }
+.pad-top-30 {  padding-top: 30px; }
+
 .top-bar {
     height: 5px;
     background: #ca2129;
@@ -86,4 +90,14 @@
 
 .redbox a.readmore:hover {
     background: #86161b;
+
+}
+
+.media-body {
+    font-size: 120%;
+}
+
+.panel-default > .panel-heading {
+    background: #2e98cc;
+    color: white;
 }
