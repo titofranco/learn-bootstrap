@@ -101,3 +101,16 @@
     background: #2e98cc;
     color: white;
 }
+
+.list-group-item.active, .list-group-item.active:hover, .list-group-item.active:focus {
+    background-color: #ca2129;
+    border-color: #ca2129;
+    color: #fff;
+    z-index: 2;
+}
+
+.grey-list .list-group-item.active, .grey-list .list-group-item.active:hover, .grey-list .list-group-item.active:focus {
+    background-color: #f4f4f4;
+    border-color: #cccccc;
+    color: #666666;
+}
