@@ -12,6 +12,25 @@
     margin-bottom: 1px;
 }
 
+li.login a{
+    background: #ca2129 ;
+    margin-bottom: -10px !important;
+    color: white !important;
+    padding-right: 22px;
+    padding-left: 22px;
+}
+
+li.login a:hover, .navbar-default .navbar-nav > li > a:hover{
+    background: #cccccc;
+}
+
+li.register a{
+    background: #2f98cc;
+    margin-bottom: -10px !important;
+    color: white !important;
+    padding-right: 22px;
+}
+
 .jumbotron {
     background: url(../images/waterdrop.jpg) no-repeat 50% 0;
     height: 350px;
