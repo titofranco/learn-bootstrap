@@ -170,6 +170,12 @@ small{
     margin:5px 0 10px 0;
 }
 
+iframe.gmap {
+    width:100%;
+    border: 1px solid;
+    padding: 4px;
+}
+
 footer {
     text-align: center;
     padding: 20px 0;
