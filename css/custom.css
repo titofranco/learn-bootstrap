@@ -120,9 +120,14 @@ li.register a{
     font-size: 120%;
 }
 
-.panel-default > .panel-heading {
-    background: #2e98cc;
-    color: white;
+
+.panel-blue-heading {
+    background: #2e98cc !important;
+    color: white !important;
+}
+
+.panel a:hover {
+    text-decoration: none;
 }
 
 .list-group-item.active, .list-group-item.active:hover, .list-group-item.active:focus {
