@@ -180,6 +180,10 @@ iframe.gmap {
     background: #f4f4f4 !important;
 }
 
+.tab-pane{
+    padding-top: 10px;
+}
+
 footer {
     text-align: center;
     padding: 20px 0;
