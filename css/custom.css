@@ -133,3 +133,10 @@ li.register a{
     border-color: #cccccc;
     color: #666666;
 }
+
+footer {
+    text-align: center;
+    padding: 20px 0;
+    font-weight: bold;
+    background: #f4f4f4;
+}
